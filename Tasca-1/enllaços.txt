@@ -1,0 +1,10 @@
+Alguns enllaços no son de els recursos de la tasca
+
+Enllaços Spring
+https://www.baeldung.com/spring-request-param
+https://www.youtube.com/watch?v=7vHzVN0EiQc&t=6340s
+https://www.baeldung.com/spring-pathvariable
+https://www.baeldung.com/spring-requestparam-vs-pathvariable
+
+Enllaç Postman
+https://www.izertis.com/es/-/blog/automatizar-pruebas-de-una-api-usando-postman#:~:text=Para%20poder%20ver%20las%20variables,despu%C3%A9s%20pulsar%20en%20Manage%20Environments.
