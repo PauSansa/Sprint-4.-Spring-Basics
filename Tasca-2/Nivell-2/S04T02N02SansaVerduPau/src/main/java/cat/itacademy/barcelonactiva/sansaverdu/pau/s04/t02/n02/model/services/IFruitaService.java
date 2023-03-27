@@ -1,6 +1,6 @@
-package cat.itacademy.barcelonactiva.sansaverdu.pau.s04.t02.n01.model.services;
+package cat.itacademy.barcelonactiva.sansaverdu.pau.s04.t02.n02.model.services;
 
-import cat.itacademy.barcelonactiva.sansaverdu.pau.s04.t02.n01.model.domain.Fruita;
+import cat.itacademy.barcelonactiva.sansaverdu.pau.s04.t02.n02.model.domain.Fruita;
 
 import java.util.List;
 import java.util.Optional;

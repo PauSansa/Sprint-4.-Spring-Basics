@@ -1,7 +1,7 @@
-package cat.itacademy.barcelonactiva.sansaverdu.pau.s04.t02.n01.controllers;
+package cat.itacademy.barcelonactiva.sansaverdu.pau.s04.t02.n02.controllers;
 
-import cat.itacademy.barcelonactiva.sansaverdu.pau.s04.t02.n01.model.domain.Fruita;
-import cat.itacademy.barcelonactiva.sansaverdu.pau.s04.t02.n01.model.services.IFruitaService;
+import cat.itacademy.barcelonactiva.sansaverdu.pau.s04.t02.n02.model.domain.Fruita;
+import cat.itacademy.barcelonactiva.sansaverdu.pau.s04.t02.n02.model.services.IFruitaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
